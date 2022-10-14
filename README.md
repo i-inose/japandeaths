@@ -1,7 +1,7 @@
 # jpdeaths
 jpdeaths visualizes the relationship between the number of Covid-19 deaths and age in Japan.<br>
 Data was obtained from the following sites.<br>
-https://toyokeizai.net/sp/visual/tko/covid19/csv/demography.csv<br>
+https://covid19.mhlw.go.jp/public/opendata/deaths_cumulative_daily.csv<br>
 It will be released as a PyPI tool in the near future.
 
 # How to install jpdeaths
