@@ -8,4 +8,4 @@ Recently published
 
 # How to run jpdeaths
 Recently published<br>
-<img src="https://github.com/i-inose/jpdeaths/blob/main/result.png?raw=true">
+<img src="https://github.com/i-inose/japandeaths/blob/main/result.png?raw=true">
