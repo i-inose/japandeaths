@@ -10,7 +10,7 @@ $ pip install japandeaths
 ```
 Then japandeaths will be downloaded.<br>
 
-# How to run jpdeaths
+# How to run jpandeaths
 Write the following program in the terminal on your computer.<br>
 ```
 $ japandeaths
