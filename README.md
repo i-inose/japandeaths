@@ -27,4 +27,4 @@ For this project, we graphed the cumulative number of deaths by Covid-19 and con
 Although we were able to complete the program quickly, the conversion to PyPI took a very long time.<br>
 We hope to continue our research, graphing, and conversion to PyPI not only in the medical field but also in various other fields to provide information to people around the world.<br>
 Well, that's about it for this issue. Thank you for reading.<br>
-From Izuru Inose
+From Izuru Inose / 伊野瀬出
